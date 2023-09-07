@@ -1,4 +1,4 @@
 # React Todo App linked with api
--Simple todo app implemented using React, typescript, scss
+-Todo app implemented using React, typescript, and scss.
 
-[WORKING DEMO](https://adrqq.github.io/todo_app/) and add it to the PR description.
+[WORKING DEMO](https://adrqq.github.io/todo_app/)
